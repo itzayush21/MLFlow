@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/323335067490691266/675a968f1b794557af9f33a866541c83/artifacts
+end_time: 1753991505261
+entry_point_name: ''
+experiment_id: '323335067490691266'
+lifecycle_stage: active
+run_id: 675a968f1b794557af9f33a866541c83
+run_name: dapper-loon-788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753991504890
+status: 3
+tags: []
+user_id: amank

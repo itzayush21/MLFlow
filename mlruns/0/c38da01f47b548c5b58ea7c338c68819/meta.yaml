@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c38da01f47b548c5b58ea7c338c68819/artifacts
+end_time: 1753989128639
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c38da01f47b548c5b58ea7c338c68819
+run_name: sedate-colt-219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753989128532
+status: 3
+tags: []
+user_id: amank

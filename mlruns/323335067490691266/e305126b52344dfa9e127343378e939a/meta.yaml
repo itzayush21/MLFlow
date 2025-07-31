@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/323335067490691266/e305126b52344dfa9e127343378e939a/artifacts
+end_time: 1753996298600
+entry_point_name: ''
+experiment_id: '323335067490691266'
+lifecycle_stage: active
+run_id: e305126b52344dfa9e127343378e939a
+run_name: thundering-foal-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753996292850
+status: 3
+tags: []
+user_id: amank

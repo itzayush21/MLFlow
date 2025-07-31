@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e66badeda6224fadb4f9c4a6b5101063/artifacts
+end_time: 1753988685262
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e66badeda6224fadb4f9c4a6b5101063
+run_name: indecisive-bug-723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753988685123
+status: 3
+tags: []
+user_id: amank

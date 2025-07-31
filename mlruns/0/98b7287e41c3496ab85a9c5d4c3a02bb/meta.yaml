@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/98b7287e41c3496ab85a9c5d4c3a02bb/artifacts
+end_time: 1753990890408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98b7287e41c3496ab85a9c5d4c3a02bb
+run_name: dapper-colt-360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753990889998
+status: 3
+tags: []
+user_id: amank

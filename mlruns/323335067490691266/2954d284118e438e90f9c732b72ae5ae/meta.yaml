@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/323335067490691266/2954d284118e438e90f9c732b72ae5ae/artifacts
+end_time: 1753991998014
+entry_point_name: ''
+experiment_id: '323335067490691266'
+lifecycle_stage: active
+run_id: 2954d284118e438e90f9c732b72ae5ae
+run_name: silent-hen-147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753991990660
+status: 3
+tags: []
+user_id: amank
