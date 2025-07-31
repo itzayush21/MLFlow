@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/347658258618857425/731c5291883f42d887b2a48b3d1683c3/artifacts
+end_time: 1753996749882
+entry_point_name: ''
+experiment_id: '347658258618857425'
+lifecycle_stage: active
+run_id: 731c5291883f42d887b2a48b3d1683c3
+run_name: peaceful-shad-331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753996749818
+status: 3
+tags: []
+user_id: amank

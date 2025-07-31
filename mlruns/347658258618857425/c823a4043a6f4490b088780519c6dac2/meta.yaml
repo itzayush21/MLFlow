@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/347658258618857425/c823a4043a6f4490b088780519c6dac2/artifacts
+end_time: 1753996749791
+entry_point_name: ''
+experiment_id: '347658258618857425'
+lifecycle_stage: active
+run_id: c823a4043a6f4490b088780519c6dac2
+run_name: classy-finch-865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753996749728
+status: 3
+tags: []
+user_id: amank

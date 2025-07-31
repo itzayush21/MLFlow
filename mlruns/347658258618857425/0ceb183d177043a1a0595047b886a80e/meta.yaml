@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/347658258618857425/0ceb183d177043a1a0595047b886a80e/artifacts
+end_time: 1753996750302
+entry_point_name: ''
+experiment_id: '347658258618857425'
+lifecycle_stage: active
+run_id: 0ceb183d177043a1a0595047b886a80e
+run_name: placid-ape-822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753996750242
+status: 3
+tags: []
+user_id: amank

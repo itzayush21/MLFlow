@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/347658258618857425/eda0576914cb409fabd6c1e0c8df7a46/artifacts
+end_time: 1753996750664
+entry_point_name: ''
+experiment_id: '347658258618857425'
+lifecycle_stage: active
+run_id: eda0576914cb409fabd6c1e0c8df7a46
+run_name: shivering-fox-850
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753996750588
+status: 3
+tags: []
+user_id: amank

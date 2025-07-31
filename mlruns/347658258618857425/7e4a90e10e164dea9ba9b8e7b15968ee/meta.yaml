@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/347658258618857425/7e4a90e10e164dea9ba9b8e7b15968ee/artifacts
+end_time: 1753996750101
+entry_point_name: ''
+experiment_id: '347658258618857425'
+lifecycle_stage: active
+run_id: 7e4a90e10e164dea9ba9b8e7b15968ee
+run_name: bouncy-tern-920
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753996750015
+status: 3
+tags: []
+user_id: amank

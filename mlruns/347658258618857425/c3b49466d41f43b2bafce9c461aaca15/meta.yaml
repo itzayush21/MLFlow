@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/347658258618857425/c3b49466d41f43b2bafce9c461aaca15/artifacts
+end_time: 1753996750388
+entry_point_name: ''
+experiment_id: '347658258618857425'
+lifecycle_stage: active
+run_id: c3b49466d41f43b2bafce9c461aaca15
+run_name: handsome-mink-588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753996750326
+status: 3
+tags: []
+user_id: amank

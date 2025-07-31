@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/347658258618857425/e3369c3a43824c61b86c260b9bd0a4a3/artifacts
+end_time: 1753996750205
+entry_point_name: ''
+experiment_id: '347658258618857425'
+lifecycle_stage: active
+run_id: e3369c3a43824c61b86c260b9bd0a4a3
+run_name: masked-penguin-547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753996750124
+status: 3
+tags: []
+user_id: amank

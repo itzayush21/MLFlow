@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/347658258618857425/5ad2a34c8bb74df281066c5996fc7021/artifacts
+end_time: 1753996750480
+entry_point_name: ''
+experiment_id: '347658258618857425'
+lifecycle_stage: active
+run_id: 5ad2a34c8bb74df281066c5996fc7021
+run_name: sedate-ant-105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753996750411
+status: 3
+tags: []
+user_id: amank

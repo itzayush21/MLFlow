@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/347658258618857425/9d7baa74802b499f8ac5750faf503a80/artifacts
+end_time: 1753996749706
+entry_point_name: ''
+experiment_id: '347658258618857425'
+lifecycle_stage: active
+run_id: 9d7baa74802b499f8ac5750faf503a80
+run_name: righteous-panda-437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753996749644
+status: 3
+tags: []
+user_id: amank
